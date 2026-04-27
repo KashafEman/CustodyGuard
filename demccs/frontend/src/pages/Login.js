@@ -27,7 +27,7 @@ export default function Login() {
     <div className="auth-page">
       <div className="auth-card">
         <div className="auth-logo">
-          <div className="auth-logo-title">DEMCCS</div>
+          <div className="auth-logo-title">Custody Guard</div>
           <div className="auth-logo-sub">Digital Evidence Management & Chain of Custody</div>
         </div>
 
